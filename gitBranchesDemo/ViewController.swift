@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("我是dev分支")
+        print("我是紧急修复分支")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
